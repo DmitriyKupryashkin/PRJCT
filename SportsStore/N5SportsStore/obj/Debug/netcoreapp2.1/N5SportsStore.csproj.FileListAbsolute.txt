@@ -1,0 +1,120 @@
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore\N5SportsStore\obj\Debug\netcoreapp2.1\N5SportsStore.csprojAssemblyReference.cache
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore\N5SportsStore\obj\Debug\netcoreapp2.1\N5SportsStore.RazorAssemblyInfo.cache
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore\N5SportsStore\obj\Debug\netcoreapp2.1\N5SportsStore.RazorAssemblyInfo.cs
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore\N5SportsStore\obj\Debug\netcoreapp2.1\N5SportsStore.AssemblyInfoInputs.cache
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore\N5SportsStore\obj\Debug\netcoreapp2.1\N5SportsStore.AssemblyInfo.cs
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore\N5SportsStore\obj\Debug\netcoreapp2.1\N5SportsStore.TagHelpers.input.cache
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore\N5SportsStore\obj\Debug\netcoreapp2.1\N5SportsStore.TagHelpers.output.cache
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore\N5SportsStore\obj\Debug\netcoreapp2.1\N5SportsStore.RazorCoreGenerate.cache
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore\N5SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore\N5SportsStore\obj\Debug\netcoreapp2.1\N5SportsStore.RazorTargetAssemblyInfo.cache
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore\N5SportsStore\obj\Debug\netcoreapp2.1\N5SportsStore.RazorTargetAssemblyInfo.cs
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore\N5SportsStore\obj\Debug\netcoreapp2.1\N5SportsStore.dll
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore\N5SportsStore\obj\Debug\netcoreapp2.1\N5SportsStore.pdb
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore\N5SportsStore\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore\N5SportsStore\bin\Debug\netcoreapp2.1\N5SportsStore.deps.json
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore\N5SportsStore\bin\Debug\netcoreapp2.1\N5SportsStore.runtimeconfig.json
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore\N5SportsStore\bin\Debug\netcoreapp2.1\N5SportsStore.runtimeconfig.dev.json
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore\N5SportsStore\bin\Debug\netcoreapp2.1\N5SportsStore.dll
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore\N5SportsStore\bin\Debug\netcoreapp2.1\N5SportsStore.pdb
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore\N5SportsStore\bin\Debug\netcoreapp2.1\N5SportsStore.Views.dll
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore\N5SportsStore\bin\Debug\netcoreapp2.1\N5SportsStore.Views.pdb
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore\N5SportsStore\obj\Debug\netcoreapp2.1\N5SportsStore.Views.pdb
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore\N5SportsStore\obj\Debug\netcoreapp2.1\N5SportsStore.csproj.CopyComplete
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore\N5SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Product\List.cshtml.g.cs
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore\N5SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore\N5SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore\N5SportsStore\bin\Debug\netcoreapp2.1\appsettings.json
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore\N5SportsStore\bin\Debug\netcoreapp2.1\package.json
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore\N5SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\ProductSummary.cshtml.g.cs
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore\N5SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\NavigationMenu\Default.cshtml.g.cs
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore\N5SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Cart\Index.cshtml.g.cs
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore\N5SportsStore\bin\Debug\netcoreapp2.1\libman.json
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore\N5SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\CartSummary\Default.cshtml.g.cs
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore\N5SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Order\Checkout.cshtml.g.cs
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore\N5SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Order\Completed.cshtml.g.cs
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore\N5SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Order\List.cshtml.g.cs
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore\N5SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore\N5SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.cshtml.g.cs
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore\N5SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Edit.cshtml.g.cs
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore\N5SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore v1 ЗАКОНЧЕН но без  подготовки развертки на веб хосте\N5SportsStore\bin\Debug\netcoreapp2.1\appsettings.json
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore v1 ЗАКОНЧЕН но без  подготовки развертки на веб хосте\N5SportsStore\bin\Debug\netcoreapp2.1\libman.json
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore v1 ЗАКОНЧЕН но без  подготовки развертки на веб хосте\N5SportsStore\bin\Debug\netcoreapp2.1\package.json
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore v1 ЗАКОНЧЕН но без  подготовки развертки на веб хосте\N5SportsStore\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore v1 ЗАКОНЧЕН но без  подготовки развертки на веб хосте\N5SportsStore\bin\Debug\netcoreapp2.1\N5SportsStore.deps.json
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore v1 ЗАКОНЧЕН но без  подготовки развертки на веб хосте\N5SportsStore\bin\Debug\netcoreapp2.1\N5SportsStore.runtimeconfig.json
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore v1 ЗАКОНЧЕН но без  подготовки развертки на веб хосте\N5SportsStore\bin\Debug\netcoreapp2.1\N5SportsStore.runtimeconfig.dev.json
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore v1 ЗАКОНЧЕН но без  подготовки развертки на веб хосте\N5SportsStore\bin\Debug\netcoreapp2.1\N5SportsStore.dll
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore v1 ЗАКОНЧЕН но без  подготовки развертки на веб хосте\N5SportsStore\bin\Debug\netcoreapp2.1\N5SportsStore.pdb
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore v1 ЗАКОНЧЕН но без  подготовки развертки на веб хосте\N5SportsStore\bin\Debug\netcoreapp2.1\N5SportsStore.Views.dll
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore v1 ЗАКОНЧЕН но без  подготовки развертки на веб хосте\N5SportsStore\bin\Debug\netcoreapp2.1\N5SportsStore.Views.pdb
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore v1 ЗАКОНЧЕН но без  подготовки развертки на веб хосте\N5SportsStore\obj\Debug\netcoreapp2.1\N5SportsStore.csprojAssemblyReference.cache
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore v1 ЗАКОНЧЕН но без  подготовки развертки на веб хосте\N5SportsStore\obj\Debug\netcoreapp2.1\N5SportsStore.RazorAssemblyInfo.cache
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore v1 ЗАКОНЧЕН но без  подготовки развертки на веб хосте\N5SportsStore\obj\Debug\netcoreapp2.1\N5SportsStore.RazorAssemblyInfo.cs
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore v1 ЗАКОНЧЕН но без  подготовки развертки на веб хосте\N5SportsStore\obj\Debug\netcoreapp2.1\N5SportsStore.AssemblyInfoInputs.cache
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore v1 ЗАКОНЧЕН но без  подготовки развертки на веб хосте\N5SportsStore\obj\Debug\netcoreapp2.1\N5SportsStore.AssemblyInfo.cs
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore v1 ЗАКОНЧЕН но без  подготовки развертки на веб хосте\N5SportsStore\obj\Debug\netcoreapp2.1\N5SportsStore.TagHelpers.input.cache
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore v1 ЗАКОНЧЕН но без  подготовки развертки на веб хосте\N5SportsStore\obj\Debug\netcoreapp2.1\N5SportsStore.TagHelpers.output.cache
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore v1 ЗАКОНЧЕН но без  подготовки развертки на веб хосте\N5SportsStore\obj\Debug\netcoreapp2.1\N5SportsStore.RazorCoreGenerate.cache
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore v1 ЗАКОНЧЕН но без  подготовки развертки на веб хосте\N5SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore v1 ЗАКОНЧЕН но без  подготовки развертки на веб хосте\N5SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Edit.cshtml.g.cs
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore v1 ЗАКОНЧЕН но без  подготовки развертки на веб хосте\N5SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.cshtml.g.cs
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore v1 ЗАКОНЧЕН но без  подготовки развертки на веб хосте\N5SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Cart\Index.cshtml.g.cs
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore v1 ЗАКОНЧЕН но без  подготовки развертки на веб хосте\N5SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Order\Checkout.cshtml.g.cs
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore v1 ЗАКОНЧЕН но без  подготовки развертки на веб хосте\N5SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Order\Completed.cshtml.g.cs
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore v1 ЗАКОНЧЕН но без  подготовки развертки на веб хосте\N5SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Order\List.cshtml.g.cs
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore v1 ЗАКОНЧЕН но без  подготовки развертки на веб хосте\N5SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Product\List.cshtml.g.cs
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore v1 ЗАКОНЧЕН но без  подготовки развертки на веб хосте\N5SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\CartSummary\Default.cshtml.g.cs
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore v1 ЗАКОНЧЕН но без  подготовки развертки на веб хосте\N5SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\NavigationMenu\Default.cshtml.g.cs
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore v1 ЗАКОНЧЕН но без  подготовки развертки на веб хосте\N5SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\ProductSummary.cshtml.g.cs
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore v1 ЗАКОНЧЕН но без  подготовки развертки на веб хосте\N5SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore v1 ЗАКОНЧЕН но без  подготовки развертки на веб хосте\N5SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore v1 ЗАКОНЧЕН но без  подготовки развертки на веб хосте\N5SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore v1 ЗАКОНЧЕН но без  подготовки развертки на веб хосте\N5SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore v1 ЗАКОНЧЕН но без  подготовки развертки на веб хосте\N5SportsStore\obj\Debug\netcoreapp2.1\N5SportsStore.RazorTargetAssemblyInfo.cache
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore v1 ЗАКОНЧЕН но без  подготовки развертки на веб хосте\N5SportsStore\obj\Debug\netcoreapp2.1\N5SportsStore.RazorTargetAssemblyInfo.cs
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore v1 ЗАКОНЧЕН но без  подготовки развертки на веб хосте\N5SportsStore\obj\Debug\netcoreapp2.1\N5SportsStore.Views.pdb
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore v1 ЗАКОНЧЕН но без  подготовки развертки на веб хосте\N5SportsStore\obj\Debug\netcoreapp2.1\N5SportsStore.dll
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore v1 ЗАКОНЧЕН но без  подготовки развертки на веб хосте\N5SportsStore\obj\Debug\netcoreapp2.1\N5SportsStore.pdb
+F:\Программирование\Project\VS 2015-2017\NCore\AspNCore\N5SportsStore v1 ЗАКОНЧЕН но без  подготовки развертки на веб хосте\N5SportsStore\obj\Debug\netcoreapp2.1\N5SportsStore.csproj.CopyComplete
+F:\Программирование\Project\PortfolioRepo\SportsStore\N5SportsStore\bin\Debug\netcoreapp2.1\appsettings.json
+F:\Программирование\Project\PortfolioRepo\SportsStore\N5SportsStore\bin\Debug\netcoreapp2.1\libman.json
+F:\Программирование\Project\PortfolioRepo\SportsStore\N5SportsStore\bin\Debug\netcoreapp2.1\package.json
+F:\Программирование\Project\PortfolioRepo\SportsStore\N5SportsStore\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+F:\Программирование\Project\PortfolioRepo\SportsStore\N5SportsStore\bin\Debug\netcoreapp2.1\N5SportsStore.deps.json
+F:\Программирование\Project\PortfolioRepo\SportsStore\N5SportsStore\bin\Debug\netcoreapp2.1\N5SportsStore.runtimeconfig.json
+F:\Программирование\Project\PortfolioRepo\SportsStore\N5SportsStore\bin\Debug\netcoreapp2.1\N5SportsStore.runtimeconfig.dev.json
+F:\Программирование\Project\PortfolioRepo\SportsStore\N5SportsStore\bin\Debug\netcoreapp2.1\N5SportsStore.dll
+F:\Программирование\Project\PortfolioRepo\SportsStore\N5SportsStore\bin\Debug\netcoreapp2.1\N5SportsStore.pdb
+F:\Программирование\Project\PortfolioRepo\SportsStore\N5SportsStore\bin\Debug\netcoreapp2.1\N5SportsStore.Views.dll
+F:\Программирование\Project\PortfolioRepo\SportsStore\N5SportsStore\bin\Debug\netcoreapp2.1\N5SportsStore.Views.pdb
+F:\Программирование\Project\PortfolioRepo\SportsStore\N5SportsStore\obj\Debug\netcoreapp2.1\N5SportsStore.csprojAssemblyReference.cache
+F:\Программирование\Project\PortfolioRepo\SportsStore\N5SportsStore\obj\Debug\netcoreapp2.1\N5SportsStore.RazorAssemblyInfo.cache
+F:\Программирование\Project\PortfolioRepo\SportsStore\N5SportsStore\obj\Debug\netcoreapp2.1\N5SportsStore.RazorAssemblyInfo.cs
+F:\Программирование\Project\PortfolioRepo\SportsStore\N5SportsStore\obj\Debug\netcoreapp2.1\N5SportsStore.AssemblyInfoInputs.cache
+F:\Программирование\Project\PortfolioRepo\SportsStore\N5SportsStore\obj\Debug\netcoreapp2.1\N5SportsStore.AssemblyInfo.cs
+F:\Программирование\Project\PortfolioRepo\SportsStore\N5SportsStore\obj\Debug\netcoreapp2.1\N5SportsStore.TagHelpers.input.cache
+F:\Программирование\Project\PortfolioRepo\SportsStore\N5SportsStore\obj\Debug\netcoreapp2.1\N5SportsStore.TagHelpers.output.cache
+F:\Программирование\Project\PortfolioRepo\SportsStore\N5SportsStore\obj\Debug\netcoreapp2.1\N5SportsStore.RazorCoreGenerate.cache
+F:\Программирование\Project\PortfolioRepo\SportsStore\N5SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+F:\Программирование\Project\PortfolioRepo\SportsStore\N5SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Edit.cshtml.g.cs
+F:\Программирование\Project\PortfolioRepo\SportsStore\N5SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.cshtml.g.cs
+F:\Программирование\Project\PortfolioRepo\SportsStore\N5SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Cart\Index.cshtml.g.cs
+F:\Программирование\Project\PortfolioRepo\SportsStore\N5SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Order\Checkout.cshtml.g.cs
+F:\Программирование\Project\PortfolioRepo\SportsStore\N5SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Order\Completed.cshtml.g.cs
+F:\Программирование\Project\PortfolioRepo\SportsStore\N5SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Order\List.cshtml.g.cs
+F:\Программирование\Project\PortfolioRepo\SportsStore\N5SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Product\List.cshtml.g.cs
+F:\Программирование\Project\PortfolioRepo\SportsStore\N5SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\CartSummary\Default.cshtml.g.cs
+F:\Программирование\Project\PortfolioRepo\SportsStore\N5SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\NavigationMenu\Default.cshtml.g.cs
+F:\Программирование\Project\PortfolioRepo\SportsStore\N5SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\ProductSummary.cshtml.g.cs
+F:\Программирование\Project\PortfolioRepo\SportsStore\N5SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+F:\Программирование\Project\PortfolioRepo\SportsStore\N5SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Программирование\Project\PortfolioRepo\SportsStore\N5SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Программирование\Project\PortfolioRepo\SportsStore\N5SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Программирование\Project\PortfolioRepo\SportsStore\N5SportsStore\obj\Debug\netcoreapp2.1\N5SportsStore.RazorTargetAssemblyInfo.cache
+F:\Программирование\Project\PortfolioRepo\SportsStore\N5SportsStore\obj\Debug\netcoreapp2.1\N5SportsStore.RazorTargetAssemblyInfo.cs
+F:\Программирование\Project\PortfolioRepo\SportsStore\N5SportsStore\obj\Debug\netcoreapp2.1\N5SportsStore.Views.pdb
+F:\Программирование\Project\PortfolioRepo\SportsStore\N5SportsStore\obj\Debug\netcoreapp2.1\N5SportsStore.dll
+F:\Программирование\Project\PortfolioRepo\SportsStore\N5SportsStore\obj\Debug\netcoreapp2.1\N5SportsStore.pdb
+F:\Программирование\Project\PortfolioRepo\SportsStore\N5SportsStore\obj\Debug\netcoreapp2.1\N5SportsStore.csproj.CopyComplete
